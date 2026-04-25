@@ -4,6 +4,13 @@ An end-to-end data science project analyzing algorithmic trading performance aga
 
 ---
 
+[![Live App](https://img.shields.io/badge/Streamlit-Live_App-brightgreen?logo=streamlit)](https://trader-performance-vs-market-sentiment-dinesh.streamlit.app)
+
+## 🌐 Live Demo
+
+🚀 **Interactive Streamlit Dashboard**  
+🔗 https://trader-performance-vs-market-sentiment-dinesh.streamlit.app
+
 ## Project Files
 
 | File | Description |
